@@ -19,8 +19,7 @@
 </head>
 <body style="background-image: url(images/VehicleParkingLogo.gif); background-size: 1150px;">
 	<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-		<a class="navbar-brand" href="index.jsp">Vehicle Parking
-			Management System</a>
+		<a class="navbar-brand" href="index.jsp">Yevgeni & Teddy</a>
 		<ul class="navbar-nav">
 			<li class="nav-item"><a class="nav-link" href="user-login.jsp">User
 					Login</a></li>
